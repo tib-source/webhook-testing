@@ -1,0 +1,6 @@
+# Binary
+markdowncli
+dist/
+
+# OS
+.DS_Store
